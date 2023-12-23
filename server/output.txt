@@ -1,0 +1,10178 @@
+[
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:19.368641000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "185.199.110.133"
+        ],
+        "tcp.srcport": [
+          "53688"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "93"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "39"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:19.368739000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "185.199.109.133"
+        ],
+        "tcp.srcport": [
+          "53687"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "93"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "39"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:19.376195000 India Standard Time"
+        ],
+        "ip.src": [
+          "185.199.110.133"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53688"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "60"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:19.376195000 India Standard Time"
+        ],
+        "ip.src": [
+          "185.199.110.133"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53688"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "93"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "39"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:19.376195000 India Standard Time"
+        ],
+        "ip.src": [
+          "185.199.109.133"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53687"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "60"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:19.376195000 India Standard Time"
+        ],
+        "ip.src": [
+          "185.199.109.133"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53687"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "93"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "39"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:19.406383000 India Standard Time"
+        ],
+        "ip.src": [
+          "185.199.110.133"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53688"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "93"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "39"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:19.406409000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "185.199.110.133"
+        ],
+        "tcp.srcport": [
+          "53688"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "66"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:19.408432000 India Standard Time"
+        ],
+        "ip.src": [
+          "185.199.109.133"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53687"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "93"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "39"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:19.408453000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "185.199.109.133"
+        ],
+        "tcp.srcport": [
+          "53687"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "66"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:19.439956000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "52.182.143.213"
+        ],
+        "tcp.srcport": [
+          "53703"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "172"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "118"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:19.440052000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "52.182.143.213"
+        ],
+        "tcp.srcport": [
+          "53703"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "9577"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "9641"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:19.442326000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "20.189.173.6"
+        ],
+        "tcp.srcport": [
+          "53857"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "66"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:19.678854000 India Standard Time"
+        ],
+        "ip.src": [
+          "20.189.173.6"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53857"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "66"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:19.678919000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "20.189.173.6"
+        ],
+        "tcp.srcport": [
+          "53857"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "54"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:19.679187000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "20.189.173.6"
+        ],
+        "tcp.srcport": [
+          "53857"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "571"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "517"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:19.693594000 India Standard Time"
+        ],
+        "ip.src": [
+          "52.182.143.213"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53703"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "60"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:19.693594000 India Standard Time"
+        ],
+        "ip.src": [
+          "52.182.143.213"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53703"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "60"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:19.693594000 India Standard Time"
+        ],
+        "ip.src": [
+          "52.182.143.213"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53703"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "60"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:19.693594000 India Standard Time"
+        ],
+        "ip.src": [
+          "52.182.143.213"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53703"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "60"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:19.696614000 India Standard Time"
+        ],
+        "ip.src": [
+          "52.182.143.213"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53703"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "154"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "100"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:19.697274000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "52.182.143.213"
+        ],
+        "tcp.srcport": [
+          "53703"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "89"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "35"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:19.851684000 India Standard Time"
+        ],
+        "ip.src": [
+          "140.82.113.26"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53685"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "79"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "25"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:19.851984000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "140.82.113.26"
+        ],
+        "tcp.srcport": [
+          "53685"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "83"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "29"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:19.916512000 India Standard Time"
+        ],
+        "ip.src": [
+          "20.189.173.6"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53857"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "153"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "99"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:19.918550000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "20.189.173.6"
+        ],
+        "tcp.srcport": [
+          "53857"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "491"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "437"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:20.001094000 India Standard Time"
+        ],
+        "ip.src": [
+          "52.182.143.213"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53703"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "60"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:20.150988000 India Standard Time"
+        ],
+        "ip.src": [
+          "140.82.113.26"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53685"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "60"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:20.206302000 India Standard Time"
+        ],
+        "ip.src": [
+          "20.189.173.6"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53857"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "1494"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "1440"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:20.206302000 India Standard Time"
+        ],
+        "ip.src": [
+          "20.189.173.6"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53857"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "1494"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "2880"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:20.206428000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "20.189.173.6"
+        ],
+        "tcp.srcport": [
+          "53857"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "54"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:20.206619000 India Standard Time"
+        ],
+        "ip.src": [
+          "20.189.173.6"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53857"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "1494"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "1440"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:20.206619000 India Standard Time"
+        ],
+        "ip.src": [
+          "20.189.173.6"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53857"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "266"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "1652"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:20.206697000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "20.189.173.6"
+        ],
+        "tcp.srcport": [
+          "53857"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "54"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:20.209042000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "20.189.173.6"
+        ],
+        "tcp.srcport": [
+          "53857"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "1864"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "1810"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:20.376368000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "185.199.109.154"
+        ],
+        "tcp.srcport": [
+          "53675"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "93"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "39"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:20.410278000 India Standard Time"
+        ],
+        "ip.src": [
+          "185.199.109.154"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53675"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "60"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:20.410278000 India Standard Time"
+        ],
+        "ip.src": [
+          "185.199.109.154"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53675"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "93"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "39"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:20.410278000 India Standard Time"
+        ],
+        "ip.src": [
+          "185.199.109.154"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53675"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "93"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "39"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:20.410326000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "185.199.109.154"
+        ],
+        "tcp.srcport": [
+          "53675"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "66"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:20.446362000 India Standard Time"
+        ],
+        "ip.src": [
+          "20.189.173.6"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53857"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "60"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:20.448910000 India Standard Time"
+        ],
+        "ip.src": [
+          "20.189.173.6"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53857"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "157"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "103"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:20.455461000 India Standard Time"
+        ],
+        "ip.src": [
+          "20.189.173.6"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53857"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "520"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "569"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:20.455542000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "20.189.173.6"
+        ],
+        "tcp.srcport": [
+          "53857"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "54"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:20.456035000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "20.189.173.6"
+        ],
+        "tcp.srcport": [
+          "53857"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "78"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "24"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:20.456114000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "20.189.173.6"
+        ],
+        "tcp.srcport": [
+          "53857"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "54"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:20.692857000 India Standard Time"
+        ],
+        "ip.src": [
+          "20.189.173.6"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53857"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "54"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:21.034969000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "8.8.8.8"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "79"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:21.035077000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "8.8.8.8"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "80"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:21.052157000 India Standard Time"
+        ],
+        "ip.src": [
+          "8.8.8.8"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "142"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:21.052157000 India Standard Time"
+        ],
+        "ip.src": [
+          "8.8.8.8"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "96"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:21.052843000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "8.8.8.8"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "80"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:21.052852000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "8.8.8.8"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "93"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:21.059297000 India Standard Time"
+        ],
+        "ip.src": [
+          "8.8.8.8"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "109"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:21.059297000 India Standard Time"
+        ],
+        "ip.src": [
+          "8.8.8.8"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "96"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:21.059679000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "8.8.8.8"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "80"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:21.059687000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "8.8.8.8"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "93"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:21.088820000 India Standard Time"
+        ],
+        "ip.src": [
+          "8.8.8.8"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "136"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:21.088820000 India Standard Time"
+        ],
+        "ip.src": [
+          "8.8.8.8"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "121"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:21.145534000 India Standard Time"
+        ],
+        "ip.src": [
+          "104.91.64.232"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53788"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "66"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:21.381906000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "185.199.111.133"
+        ],
+        "tcp.srcport": [
+          "53674"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "93"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "39"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:21.387198000 India Standard Time"
+        ],
+        "ip.src": [
+          "185.199.111.133"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53674"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "60"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:21.387198000 India Standard Time"
+        ],
+        "ip.src": [
+          "185.199.111.133"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53674"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "93"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "39"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:21.405834000 India Standard Time"
+        ],
+        "ip.src": [
+          "185.199.111.133"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53674"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "93"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "39"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:21.405853000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "185.199.111.133"
+        ],
+        "tcp.srcport": [
+          "53674"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "66"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:21.430279000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "224.0.0.22"
+        ],
+        "ip.proto": [
+          "2"
+        ],
+        "frame.len": [
+          "54"
+        ],
+        "ip.hdr_len": [
+          "24"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:21.657726000 India Standard Time"
+        ],
+        "ip.src": [
+          "104.91.64.232"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53797"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "66"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.067845000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "20.198.119.143"
+        ],
+        "tcp.srcport": [
+          "52658"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "55"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "1"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.098745000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "20.192.44.78"
+        ],
+        "tcp.srcport": [
+          "52736"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "85"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "31"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.107234000 India Standard Time"
+        ],
+        "ip.src": [
+          "20.198.119.143"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "52658"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "66"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.123392000 India Standard Time"
+        ],
+        "ip.src": [
+          "20.192.44.78"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "52736"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "60"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.561213000 India Standard Time"
+        ],
+        "ip.src": [
+          "104.91.64.232"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53788"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "66"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.673977000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "8.8.8.8"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "70"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.673983000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "8.8.8.8"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "99"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.674330000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "20.200.170.9"
+        ],
+        "tcp.srcport": [
+          "53868"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "66"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.674492000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "8.8.8.8"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "101"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.680534000 India Standard Time"
+        ],
+        "ip.src": [
+          "8.8.8.8"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "330"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.681116000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "23.15.33.110"
+        ],
+        "tcp.srcport": [
+          "53869"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "66"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.681170000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "8.8.8.8"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "86"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.688179000 India Standard Time"
+        ],
+        "ip.src": [
+          "8.8.8.8"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "230"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.688355000 India Standard Time"
+        ],
+        "ip.src": [
+          "23.15.33.110"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53869"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "66"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.688400000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "23.15.33.110"
+        ],
+        "tcp.srcport": [
+          "53869"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "54"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.688406000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "8.8.8.8"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "86"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.688972000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "23.15.33.110"
+        ],
+        "tcp.srcport": [
+          "53869"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "712"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "658"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.694199000 India Standard Time"
+        ],
+        "ip.src": [
+          "23.15.33.110"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53869"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "60"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.694199000 India Standard Time"
+        ],
+        "ip.src": [
+          "23.15.33.110"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53869"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "1506"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "1452"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.694199000 India Standard Time"
+        ],
+        "ip.src": [
+          "23.15.33.110"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53869"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "1506"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "2904"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.694252000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "23.15.33.110"
+        ],
+        "tcp.srcport": [
+          "53869"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "54"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.695535000 India Standard Time"
+        ],
+        "ip.src": [
+          "8.8.8.8"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "226"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.696598000 India Standard Time"
+        ],
+        "ip.src": [
+          "23.15.33.110"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53869"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "1198"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "1144"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.697381000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "4.2.2.2"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "101"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.697381000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "4.2.2.2"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "99"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.702047000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "23.15.33.110"
+        ],
+        "tcp.srcport": [
+          "53869"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "134"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "80"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.702331000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "23.15.33.110"
+        ],
+        "tcp.srcport": [
+          "53869"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "224"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "250"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.703918000 India Standard Time"
+        ],
+        "ip.src": [
+          "8.8.8.8"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "162"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.707658000 India Standard Time"
+        ],
+        "ip.src": [
+          "23.15.33.110"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53869"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "60"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.707658000 India Standard Time"
+        ],
+        "ip.src": [
+          "23.15.33.110"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53869"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "325"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "271"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.707658000 India Standard Time"
+        ],
+        "ip.src": [
+          "23.15.33.110"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53869"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "60"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.707658000 India Standard Time"
+        ],
+        "ip.src": [
+          "23.15.33.110"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53869"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "325"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "542"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.707658000 India Standard Time"
+        ],
+        "ip.src": [
+          "23.15.33.110"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53869"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "115"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "603"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.707658000 India Standard Time"
+        ],
+        "ip.src": [
+          "23.15.33.110"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53869"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "85"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "634"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.707721000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "23.15.33.110"
+        ],
+        "tcp.srcport": [
+          "53869"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "54"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.708243000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "23.15.33.110"
+        ],
+        "tcp.srcport": [
+          "53869"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "85"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "31"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.713003000 India Standard Time"
+        ],
+        "ip.src": [
+          "23.15.33.110"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53869"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "60"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.780350000 India Standard Time"
+        ],
+        "ip.src": [
+          "4.2.2.2"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "213"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.780930000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "8.8.8.8"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "85"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.780952000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "104.65.228.241"
+        ],
+        "tcp.srcport": [
+          "53876"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "66"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.783180000 India Standard Time"
+        ],
+        "ip.src": [
+          "4.2.2.2"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "162"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.786772000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "8.8.8.8"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "72"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.789795000 India Standard Time"
+        ],
+        "ip.src": [
+          "8.8.8.8"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "101"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.790119000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "8.8.8.8"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "85"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.797535000 India Standard Time"
+        ],
+        "ip.src": [
+          "8.8.8.8"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "337"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.797535000 India Standard Time"
+        ],
+        "ip.src": [
+          "8.8.8.8"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "225"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.809452000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "23.15.33.41"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "519"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.820274000 India Standard Time"
+        ],
+        "ip.src": [
+          "23.15.33.41"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "74"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.847187000 India Standard Time"
+        ],
+        "ip.src": [
+          "20.200.170.9"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53868"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "66"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.847257000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "20.200.170.9"
+        ],
+        "tcp.srcport": [
+          "53868"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "54"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.847882000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "20.200.170.9"
+        ],
+        "tcp.srcport": [
+          "53868"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "722"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "668"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.856103000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "23.15.33.41"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "74"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.863525000 India Standard Time"
+        ],
+        "ip.src": [
+          "104.65.228.241"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53876"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "66"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.863583000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "104.65.228.241"
+        ],
+        "tcp.srcport": [
+          "53876"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "54"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.864283000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "104.65.228.241"
+        ],
+        "tcp.srcport": [
+          "53876"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "741"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "687"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.894602000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "142.250.193.234"
+        ],
+        "tcp.srcport": [
+          "53881"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "66"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.900668000 India Standard Time"
+        ],
+        "ip.src": [
+          "142.250.193.234"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53881"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "66"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.900739000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "142.250.193.234"
+        ],
+        "tcp.srcport": [
+          "53881"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "54"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.901334000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "142.250.193.234"
+        ],
+        "tcp.srcport": [
+          "53881"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "1299"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "1245"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.901498000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "142.250.193.234"
+        ],
+        "tcp.srcport": [
+          "53881"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "60"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "1251"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.901542000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "142.250.193.234"
+        ],
+        "tcp.srcport": [
+          "53881"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "678"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "1875"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.905886000 India Standard Time"
+        ],
+        "ip.src": [
+          "142.250.193.234"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53881"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "60"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.905886000 India Standard Time"
+        ],
+        "ip.src": [
+          "142.250.193.234"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53881"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "60"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.905886000 India Standard Time"
+        ],
+        "ip.src": [
+          "142.250.193.234"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53881"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "60"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.943494000 India Standard Time"
+        ],
+        "ip.src": [
+          "104.65.228.241"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53876"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "60"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.943494000 India Standard Time"
+        ],
+        "ip.src": [
+          "104.65.228.241"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53876"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "1506"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "1452"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.943494000 India Standard Time"
+        ],
+        "ip.src": [
+          "104.65.228.241"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53876"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "1506"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "2904"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.943494000 India Standard Time"
+        ],
+        "ip.src": [
+          "104.65.228.241"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53876"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "1246"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "4096"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.943572000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "104.65.228.241"
+        ],
+        "tcp.srcport": [
+          "53876"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "54"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.946733000 India Standard Time"
+        ],
+        "ip.src": [
+          "104.65.228.241"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53876"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "1506"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "1452"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.946776000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "104.65.228.241"
+        ],
+        "tcp.srcport": [
+          "53876"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "54"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.975749000 India Standard Time"
+        ],
+        "ip.src": [
+          "142.250.193.234"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53881"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "822"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "768"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.975749000 India Standard Time"
+        ],
+        "ip.src": [
+          "142.250.193.234"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53881"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "116"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "830"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.975749000 India Standard Time"
+        ],
+        "ip.src": [
+          "142.250.193.234"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53881"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "85"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "861"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.975800000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "142.250.193.234"
+        ],
+        "tcp.srcport": [
+          "53881"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "54"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.976141000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "142.250.193.234"
+        ],
+        "tcp.srcport": [
+          "53881"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "138"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "84"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.977126000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "142.250.193.234"
+        ],
+        "tcp.srcport": [
+          "53881"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "85"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "115"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.980301000 India Standard Time"
+        ],
+        "ip.src": [
+          "142.250.193.234"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53881"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "60"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.982391000 India Standard Time"
+        ],
+        "ip.src": [
+          "142.250.193.234"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53881"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "60"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.996116000 India Standard Time"
+        ],
+        "ip.src": [
+          "23.15.33.41"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "310"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.996116000 India Standard Time"
+        ],
+        "ip.src": [
+          "23.15.33.41"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "253"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.996116000 India Standard Time"
+        ],
+        "ip.src": [
+          "23.15.33.41"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "68"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:22.996515000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "23.15.33.41"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "78"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.005872000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "23.15.33.41"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "519"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.011030000 India Standard Time"
+        ],
+        "ip.src": [
+          "23.15.33.41"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "73"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.021692000 India Standard Time"
+        ],
+        "ip.src": [
+          "20.200.170.9"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53868"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "1494"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "1440"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.021692000 India Standard Time"
+        ],
+        "ip.src": [
+          "20.200.170.9"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53868"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "1494"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "2880"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.021692000 India Standard Time"
+        ],
+        "ip.src": [
+          "20.200.170.9"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53868"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "1494"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "4320"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.021692000 India Standard Time"
+        ],
+        "ip.src": [
+          "20.200.170.9"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53868"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "1494"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "5760"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.021692000 India Standard Time"
+        ],
+        "ip.src": [
+          "20.200.170.9"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53868"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "232"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "5938"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.021763000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "20.200.170.9"
+        ],
+        "tcp.srcport": [
+          "53868"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "54"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.023877000 India Standard Time"
+        ],
+        "ip.src": [
+          "104.65.228.241"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53876"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "929"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "875"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.025054000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "20.200.170.9"
+        ],
+        "tcp.srcport": [
+          "53868"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "212"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "158"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.036032000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "104.65.228.241"
+        ],
+        "tcp.srcport": [
+          "53876"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "134"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "80"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.036230000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "23.15.33.41"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "74"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.036464000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "104.65.228.241"
+        ],
+        "tcp.srcport": [
+          "53876"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "224"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "250"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.043786000 India Standard Time"
+        ],
+        "ip.src": [
+          "8.8.8.8"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "213"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.051530000 India Standard Time"
+        ],
+        "ip.src": [
+          "142.250.193.234"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53881"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "274"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "220"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.051530000 India Standard Time"
+        ],
+        "ip.src": [
+          "142.250.193.234"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53881"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "345"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "511"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.051556000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "142.250.193.234"
+        ],
+        "tcp.srcport": [
+          "53881"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "54"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.053416000 India Standard Time"
+        ],
+        "ip.src": [
+          "142.250.193.234"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53881"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "85"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "31"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.053416000 India Standard Time"
+        ],
+        "ip.src": [
+          "142.250.193.234"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53881"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "93"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "70"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.053459000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "142.250.193.234"
+        ],
+        "tcp.srcport": [
+          "53881"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "54"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.053530000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "142.250.193.234"
+        ],
+        "tcp.srcport": [
+          "53881"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "93"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "39"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.053628000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "142.250.193.234"
+        ],
+        "tcp.srcport": [
+          "53881"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "78"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "63"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.053642000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "142.250.193.234"
+        ],
+        "tcp.srcport": [
+          "53881"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "54"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.054089000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "8.8.8.8"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "74"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.054482000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "8.8.8.8"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "75"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.062172000 India Standard Time"
+        ],
+        "ip.src": [
+          "142.250.193.234"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53881"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "54"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.062172000 India Standard Time"
+        ],
+        "ip.src": [
+          "142.250.193.234"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53881"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "54"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.062172000 India Standard Time"
+        ],
+        "ip.src": [
+          "142.250.193.234"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53881"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "54"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.062201000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "142.250.193.234"
+        ],
+        "tcp.srcport": [
+          "53881"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "54"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.064047000 India Standard Time"
+        ],
+        "ip.src": [
+          "8.8.8.8"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "141"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.064047000 India Standard Time"
+        ],
+        "ip.src": [
+          "8.8.8.8"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "127"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.064325000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "8.8.8.8"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "83"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.071233000 India Standard Time"
+        ],
+        "ip.src": [
+          "8.8.8.8"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "99"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.071550000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "8.8.8.8"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "83"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.080280000 India Standard Time"
+        ],
+        "ip.src": [
+          "8.8.8.8"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "144"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.120223000 India Standard Time"
+        ],
+        "ip.src": [
+          "104.65.228.241"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53876"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "60"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.120223000 India Standard Time"
+        ],
+        "ip.src": [
+          "104.65.228.241"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53876"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "60"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.120223000 India Standard Time"
+        ],
+        "ip.src": [
+          "104.65.228.241"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53876"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "357"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "303"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.120223000 India Standard Time"
+        ],
+        "ip.src": [
+          "104.65.228.241"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53876"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "357"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "606"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.120223000 India Standard Time"
+        ],
+        "ip.src": [
+          "104.65.228.241"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53876"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "115"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "667"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.120223000 India Standard Time"
+        ],
+        "ip.src": [
+          "104.65.228.241"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53876"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "85"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "698"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.120348000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "104.65.228.241"
+        ],
+        "tcp.srcport": [
+          "53876"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "54"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.122853000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "104.65.228.241"
+        ],
+        "tcp.srcport": [
+          "53876"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "85"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "31"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.189518000 India Standard Time"
+        ],
+        "ip.src": [
+          "23.15.33.41"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "167"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.190294000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "23.15.33.41"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "73"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.199129000 India Standard Time"
+        ],
+        "ip.src": [
+          "20.200.170.9"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53868"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "105"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "51"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.199129000 India Standard Time"
+        ],
+        "ip.src": [
+          "20.200.170.9"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53868"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "123"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "120"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.199129000 India Standard Time"
+        ],
+        "ip.src": [
+          "23.15.33.41"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "1399"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.199129000 India Standard Time"
+        ],
+        "ip.src": [
+          "23.15.33.41"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "1399"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.199129000 India Standard Time"
+        ],
+        "ip.src": [
+          "23.15.33.41"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "1399"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.199129000 India Standard Time"
+        ],
+        "ip.src": [
+          "23.15.33.41"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "1399"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.199129000 India Standard Time"
+        ],
+        "ip.src": [
+          "23.15.33.41"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "1399"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.199337000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "20.200.170.9"
+        ],
+        "tcp.srcport": [
+          "53868"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "54"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.199592000 India Standard Time"
+        ],
+        "ip.src": [
+          "23.15.33.41"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "1399"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.199592000 India Standard Time"
+        ],
+        "ip.src": [
+          "23.15.33.41"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "1399"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.199592000 India Standard Time"
+        ],
+        "ip.src": [
+          "23.15.33.41"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "1399"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.199592000 India Standard Time"
+        ],
+        "ip.src": [
+          "23.15.33.41"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "1399"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.199592000 India Standard Time"
+        ],
+        "ip.src": [
+          "23.15.33.41"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "1399"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.199592000 India Standard Time"
+        ],
+        "ip.src": [
+          "23.15.33.41"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "1399"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.199592000 India Standard Time"
+        ],
+        "ip.src": [
+          "23.15.33.41"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "1399"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.199592000 India Standard Time"
+        ],
+        "ip.src": [
+          "23.15.33.41"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "490"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.200608000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "23.15.33.41"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "75"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.200746000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "20.200.170.9"
+        ],
+        "tcp.srcport": [
+          "53868"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "231"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "177"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.200807000 India Standard Time"
+        ],
+        "ip.src": [
+          "104.65.228.241"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53876"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "60"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.201473000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "20.200.170.9"
+        ],
+        "tcp.srcport": [
+          "53868"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "92"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "215"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.219556000 India Standard Time"
+        ],
+        "ip.src": [
+          "23.15.33.41"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "1399"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.219556000 India Standard Time"
+        ],
+        "ip.src": [
+          "23.15.33.41"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "1399"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.219556000 India Standard Time"
+        ],
+        "ip.src": [
+          "23.15.33.41"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "1399"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.219556000 India Standard Time"
+        ],
+        "ip.src": [
+          "23.15.33.41"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "1399"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.219556000 India Standard Time"
+        ],
+        "ip.src": [
+          "23.15.33.41"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "1399"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.219556000 India Standard Time"
+        ],
+        "ip.src": [
+          "23.15.33.41"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "1399"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.219556000 India Standard Time"
+        ],
+        "ip.src": [
+          "23.15.33.41"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "1399"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.219556000 India Standard Time"
+        ],
+        "ip.src": [
+          "23.15.33.41"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "1399"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.219556000 India Standard Time"
+        ],
+        "ip.src": [
+          "23.15.33.41"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "1399"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.219556000 India Standard Time"
+        ],
+        "ip.src": [
+          "23.15.33.41"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "1399"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.219556000 India Standard Time"
+        ],
+        "ip.src": [
+          "23.15.33.41"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "1007"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.219556000 India Standard Time"
+        ],
+        "ip.src": [
+          "23.15.33.41"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "70"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.219967000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "23.15.33.41"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "75"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.372656000 India Standard Time"
+        ],
+        "ip.src": [
+          "20.200.170.9"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53868"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "92"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "38"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.415931000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "20.200.170.9"
+        ],
+        "tcp.srcport": [
+          "53868"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "54"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.422520000 India Standard Time"
+        ],
+        "ip.src": [
+          "20.200.170.9"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53868"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "60"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.526667000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "13.107.246.48"
+        ],
+        "tcp.srcport": [
+          "53702"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "55"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "1"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.535797000 India Standard Time"
+        ],
+        "ip.src": [
+          "13.107.246.48"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53702"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "66"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.561109000 India Standard Time"
+        ],
+        "ip.src": [
+          "20.192.44.78"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "52736"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "1494"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "1440"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.561109000 India Standard Time"
+        ],
+        "ip.src": [
+          "20.192.44.78"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "52736"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "970"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "2356"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.561206000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "20.192.44.78"
+        ],
+        "tcp.srcport": [
+          "52736"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "54"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.562347000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "20.192.44.78"
+        ],
+        "tcp.srcport": [
+          "52736"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "461"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "407"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.589565000 India Standard Time"
+        ],
+        "ip.src": [
+          "20.192.44.78"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "52736"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "60"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.595013000 India Standard Time"
+        ],
+        "ip.src": [
+          "20.192.44.78"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "52736"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "88"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "34"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.638020000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "20.192.44.78"
+        ],
+        "tcp.srcport": [
+          "52736"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "54"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.670600000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "8.8.8.8"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "79"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.675586000 India Standard Time"
+        ],
+        "ip.src": [
+          "8.8.8.8"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "169"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.675694000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "20.192.44.78"
+        ],
+        "tcp.srcport": [
+          "52736"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "647"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "593"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.676070000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "8.8.8.8"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "106"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.680843000 India Standard Time"
+        ],
+        "ip.src": [
+          "8.8.8.8"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "122"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.680995000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "8.8.8.8"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "106"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.685104000 India Standard Time"
+        ],
+        "ip.src": [
+          "8.8.8.8"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "199"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.706709000 India Standard Time"
+        ],
+        "ip.src": [
+          "20.192.44.78"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "52736"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "88"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "34"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.746854000 India Standard Time"
+        ],
+        "ip.src": [
+          "20.192.44.78"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "52736"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "458"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "438"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.746899000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "20.192.44.78"
+        ],
+        "tcp.srcport": [
+          "52736"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "54"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.955564000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "23.15.33.41"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "246"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:23.980122000 India Standard Time"
+        ],
+        "ip.src": [
+          "23.15.33.41"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "73"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:24.000826000 India Standard Time"
+        ],
+        "ip.src": [
+          "23.15.33.41"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "68"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:24.001040000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "23.15.33.41"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "77"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:24.156547000 India Standard Time"
+        ],
+        "ip.src": [
+          "23.15.33.41"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "938"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:24.156950000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "23.15.33.41"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "73"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:24.161946000 India Standard Time"
+        ],
+        "ip.src": [
+          "23.15.33.41"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "1399"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:24.161946000 India Standard Time"
+        ],
+        "ip.src": [
+          "23.15.33.41"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "1399"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:24.161946000 India Standard Time"
+        ],
+        "ip.src": [
+          "23.15.33.41"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "1399"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:24.161946000 India Standard Time"
+        ],
+        "ip.src": [
+          "23.15.33.41"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "1399"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:24.161946000 India Standard Time"
+        ],
+        "ip.src": [
+          "23.15.33.41"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "1399"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:24.161946000 India Standard Time"
+        ],
+        "ip.src": [
+          "23.15.33.41"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "260"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:24.161946000 India Standard Time"
+        ],
+        "ip.src": [
+          "23.15.33.41"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "68"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:24.162388000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "23.15.33.41"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "74"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:24.852622000 India Standard Time"
+        ],
+        "ip.src": [
+          "20.192.44.78"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "52736"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "81"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "27"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:24.893117000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "20.192.44.78"
+        ],
+        "tcp.srcport": [
+          "52736"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "54"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:24.940727000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "224.0.0.22"
+        ],
+        "ip.proto": [
+          "2"
+        ],
+        "frame.len": [
+          "54"
+        ],
+        "ip.hdr_len": [
+          "24"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:25.037257000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "142.250.182.163"
+        ],
+        "tcp.srcport": [
+          "53774"
+        ],
+        "tcp.dstport": [
+          "80"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "55"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "1"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:25.047385000 India Standard Time"
+        ],
+        "ip.src": [
+          "142.250.182.163"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "80"
+        ],
+        "tcp.dstport": [
+          "53774"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "66"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:25.196935000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "34.107.221.82"
+        ],
+        "tcp.srcport": [
+          "53634"
+        ],
+        "tcp.dstport": [
+          "80"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "55"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "1"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:25.196988000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "34.107.221.82"
+        ],
+        "tcp.srcport": [
+          "53632"
+        ],
+        "tcp.dstport": [
+          "80"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "55"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "1"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:25.218727000 India Standard Time"
+        ],
+        "ip.src": [
+          "34.107.221.82"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "80"
+        ],
+        "tcp.dstport": [
+          "53632"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "66"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:25.218727000 India Standard Time"
+        ],
+        "ip.src": [
+          "34.107.221.82"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "80"
+        ],
+        "tcp.dstport": [
+          "53634"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "66"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:25.546054000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "20.200.170.9"
+        ],
+        "tcp.srcport": [
+          "53830"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "355"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "301"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:25.706612000 India Standard Time"
+        ],
+        "ip.src": [
+          "20.200.170.9"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53830"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "176"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "122"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:25.706612000 India Standard Time"
+        ],
+        "ip.src": [
+          "20.200.170.9"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53830"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "570"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "638"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:25.706684000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "20.200.170.9"
+        ],
+        "tcp.srcport": [
+          "53830"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "54"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:26.133800000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "72.25.64.32"
+        ],
+        "tcp.srcport": [
+          "53572"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "55"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "1"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:26.200067000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "142.250.182.163"
+        ],
+        "tcp.srcport": [
+          "53793"
+        ],
+        "tcp.dstport": [
+          "80"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "55"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "1"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:26.205016000 India Standard Time"
+        ],
+        "ip.src": [
+          "142.250.182.163"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "80"
+        ],
+        "tcp.dstport": [
+          "53793"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "66"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:26.435744000 India Standard Time"
+        ],
+        "ip.src": [
+          "72.25.64.32"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53572"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "60"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:26.447831000 India Standard Time"
+        ],
+        "ip.src": [
+          "20.192.44.78"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "52736"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "145"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "91"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:26.501601000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "20.192.44.78"
+        ],
+        "tcp.srcport": [
+          "52736"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "54"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:27.115844000 India Standard Time"
+        ],
+        "ip.src": [
+          "104.91.64.232"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53791"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "78"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "24"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:27.115844000 India Standard Time"
+        ],
+        "ip.src": [
+          "104.91.64.232"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53791"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "54"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:27.115913000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "104.91.64.232"
+        ],
+        "tcp.srcport": [
+          "53791"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "54"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:27.116036000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "104.91.64.232"
+        ],
+        "tcp.srcport": [
+          "53791"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "93"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "39"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:27.116184000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "104.91.64.232"
+        ],
+        "tcp.srcport": [
+          "53791"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "78"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "63"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:27.116200000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "104.91.64.232"
+        ],
+        "tcp.srcport": [
+          "53791"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "54"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:27.333203000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "104.91.64.232"
+        ],
+        "tcp.srcport": [
+          "53791"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "117"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "63"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:27.338055000 India Standard Time"
+        ],
+        "ip.src": [
+          "104.91.64.232"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53791"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "54"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:28.464771000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "185.199.108.153"
+        ],
+        "tcp.srcport": [
+          "53662"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "93"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "39"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:28.520218000 India Standard Time"
+        ],
+        "ip.src": [
+          "185.199.108.153"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53662"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "60"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:28.520218000 India Standard Time"
+        ],
+        "ip.src": [
+          "185.199.108.153"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53662"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "93"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "39"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:28.574115000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "185.199.108.153"
+        ],
+        "tcp.srcport": [
+          "53662"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "54"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:29.154979000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "8.8.4.4"
+        ],
+        "tcp.srcport": [
+          "53734"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "54"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:29.155062000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "52.182.143.213"
+        ],
+        "tcp.srcport": [
+          "53705"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "54"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:29.155086000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "192.229.232.200"
+        ],
+        "tcp.srcport": [
+          "53740"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "54"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:29.155097000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "192.229.232.200"
+        ],
+        "tcp.srcport": [
+          "53740"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "54"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:29.155220000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "192.229.232.200"
+        ],
+        "tcp.srcport": [
+          "53741"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "54"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:29.155249000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "192.229.232.200"
+        ],
+        "tcp.srcport": [
+          "53741"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "54"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:29.155371000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "13.67.9.5"
+        ],
+        "tcp.srcport": [
+          "53710"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "911"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "857"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:29.218007000 India Standard Time"
+        ],
+        "ip.src": [
+          "8.8.4.4"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53734"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "54"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:29.218044000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "8.8.4.4"
+        ],
+        "tcp.srcport": [
+          "53734"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "54"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:29.335678000 India Standard Time"
+        ],
+        "ip.src": [
+          "13.67.9.5"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53710"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "439"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "385"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:29.387961000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "13.67.9.5"
+        ],
+        "tcp.srcport": [
+          "53710"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "54"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:29.410210000 India Standard Time"
+        ],
+        "ip.src": [
+          "52.182.143.213"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53705"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "54"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:30.870474000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "8.8.8.8"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "99"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:30.876406000 India Standard Time"
+        ],
+        "ip.src": [
+          "8.8.8.8"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "ip.proto": [
+          "17"
+        ],
+        "frame.len": [
+          "195"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:30.877217000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "140.82.114.21"
+        ],
+        "tcp.srcport": [
+          "53882"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "66"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:31.161404000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "52.182.143.213"
+        ],
+        "tcp.srcport": [
+          "53703"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "166"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "112"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:31.161496000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "52.182.143.213"
+        ],
+        "tcp.srcport": [
+          "53703"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "93"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "151"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:31.161518000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "52.182.143.213"
+        ],
+        "tcp.srcport": [
+          "53703"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "2014"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "2111"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:31.180598000 India Standard Time"
+        ],
+        "ip.src": [
+          "140.82.114.21"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53882"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "66"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:31.180667000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "140.82.114.21"
+        ],
+        "tcp.srcport": [
+          "53882"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "54"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:31.180938000 India Standard Time"
+        ],
+        "ip.src": [
+          "192.168.1.38"
+        ],
+        "ip.dst": [
+          "140.82.114.21"
+        ],
+        "tcp.srcport": [
+          "53882"
+        ],
+        "tcp.dstport": [
+          "443"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "571"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ],
+        "tcp.analysis.bytes_in_flight": [
+          "517"
+        ]
+      }
+    }
+  },
+  {
+    "_index": "packets-2023-12-19",
+    "_type": "doc",
+    "_score": null,
+    "_source": {
+      "layers": {
+        "frame.time": [
+          "Dec 19, 2023 14:24:31.421193000 India Standard Time"
+        ],
+        "ip.src": [
+          "52.182.143.213"
+        ],
+        "ip.dst": [
+          "192.168.1.38"
+        ],
+        "tcp.srcport": [
+          "443"
+        ],
+        "tcp.dstport": [
+          "53703"
+        ],
+        "ip.proto": [
+          "6"
+        ],
+        "frame.len": [
+          "60"
+        ],
+        "ip.hdr_len": [
+          "20"
+        ]
+      }
+    }
+  }
+]
